@@ -1,5 +1,9 @@
 # Install, and Run
 
+Download git repository:
+
+`git clone https://github.com/venserwub/docker-tika-gtri-assessment.git`
+
 Building the tika image:
 
 `docker build . -t tikaserver`
